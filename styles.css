@@ -427,3 +427,7 @@ h1 {
 .tulane-mark { width: 26px; height: 26px; display: grid; place-items: center; color: #006747; border: 2px solid #006747; border-radius: 50%; font: 700 15px/1 Georgia, serif; }
 
 
+.centrum-education { grid-template-columns: 132px minmax(0,1fr); }
+.education-centrum { width: 132px; height: 46px; }
+
+
