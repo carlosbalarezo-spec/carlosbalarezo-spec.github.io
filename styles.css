@@ -444,3 +444,7 @@ h1 {
 @media (max-width: 700px) { .academic-card { grid-template-columns: 112px minmax(0,1fr); gap: 14px; } }
 
 
+.section-body .academic-card { grid-template-columns: 112px minmax(0,1fr) !important; }
+.section-body .academic-card .centrum-logo { width: 112px; height: 46px; padding: 0 6px; box-sizing: border-box; }
+
+
