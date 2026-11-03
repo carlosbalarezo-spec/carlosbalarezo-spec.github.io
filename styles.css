@@ -431,3 +431,7 @@ h1 {
 .education-centrum { width: 132px; height: 46px; }
 
 
+.education-grid .education-card.centrum-education { grid-template-columns: 152px minmax(0,1fr); }
+.education-grid .education-card.centrum-education .centrum-logo { width: 132px; box-sizing: border-box; }
+
+
